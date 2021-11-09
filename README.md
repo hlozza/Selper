@@ -1,2 +1,2 @@
 # Selper
-Example scripts for the Seleper 2021 training course  
+Example scripts for the Selper 2021 training course  
